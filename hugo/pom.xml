@@ -9,7 +9,7 @@
     <version>2.11</version>
     <relativePath/>
   </parent>
-  <groupId>xyz.deogracia.jenkins.plugins</groupId>
+  <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>hugo</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
@@ -26,7 +26,7 @@
   </properties>
 
   <name>Hugo Plugin</name>
-  <description>Download and use the right Hugo version</description>
+  <description>Download and use the right Hugo version.</description>
   <url>https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin</url>
 
   <!-- The default licence for Jenkins OSS Plugins is MIT. Substitute for the applicable one if needed. -->

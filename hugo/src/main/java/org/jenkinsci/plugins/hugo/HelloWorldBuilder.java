@@ -1,4 +1,4 @@
-package xyz.deogracia.jenkins.plugins.hugo;
+package org.jenkinsci.plugins.hugo;
 import hudson.Launcher;
 import hudson.Extension;
 import hudson.FilePath;
